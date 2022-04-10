@@ -6,7 +6,7 @@
 
 body {
     background-color: #E5E5E5;
-    height: 10000px;
+    height: 6850px;
 }
 
 header {
@@ -649,4 +649,108 @@ header {
 }
 .box_4_2_prem img {
     margin-top:60%;
+}
+.under_preim_title{
+    font-family: 'Oswald', sans-serif;
+    font-size: 68px;
+    color: #EC7F00;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 8%;
+}
+.box_under_preim{
+    border: solid red;
+    height: 600px;
+}
+.adres_title{
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 15%;
+    margin-top: 22%;
+}
+.adres_name{
+    font-weight: 600;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 15%;
+    margin-top: 0.5%;
+}
+.tel_title{
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 15%;
+    margin-top: 1%;
+}
+.tel_name{
+    font-weight: 600;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 15%;
+    margin-top: 0.5%;
+}
+.WA_title{
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 15%;
+    margin-top: 1%;
+}
+.WA_name{
+    font-weight: 600;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 15%;
+    margin-top: 0.5%;
+}
+.email_title{
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 15%;
+    margin-top: 1%;
+}
+.email_name{
+    font-weight: 600;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 15%;
+    margin-top: 0.5%;
+}
+.insta_title{
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 15%;
+    margin-top: 1%;
+}
+.insta_name{
+    font-weight: 600;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 15%;
+    margin-top: 0.5%;
+}
+.before_footer{
+    display: flex;
+}
+.box_info{
+height: 600px;
+width: 40%;
+}
+.box_img{
+height: 600px;
+width: 60%;
+}
+.map_footer{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.footer{
+    height: 144px;
+    background-color:  #313131;
+}
+.logo-footer{
+    margin-top: 20px;
 }
