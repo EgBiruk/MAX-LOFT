@@ -751,6 +751,52 @@ width: 60%;
     height: 144px;
     background-color:  #313131;
 }
-.logo-footer{
-    margin-top: 20px;
+.footer_img{
+    margin-top: 40px;
+    margin-left: 100px;
+}
+.a_1_footer{
+    color: white;
+    text-decoration: none;
+}
+.a_2_footer{
+    color: white;
+    text-decoration: none;
+}
+.a_3_footer{
+    color: white;
+    text-decoration: none;
+}
+.a_4_footer{
+    color: white;
+    text-decoration: none;
+}
+.footer_div{
+    display: flex;
+}
+.footer_box_1{
+width: 30%;
+}
+.footer_box_2{
+    display: flex;
+    justify-content: center;
+width: 70%;
+color: white;
+font-size: 20px;
+font-weight: 600;
+font-family: 'Montserrat', sans-serif;
+text-decoration: none;
+margin-top: 50px;
+margin-right: 20%;
+}
+.footer_box_2 a{
+margin-left: 5%;
+}
+li {
+    color: #EC7F00;
+}
+
+mark {
+    color: #EC7F00;
+    background-color: rgba(0, 0, 0, 0)
 }
